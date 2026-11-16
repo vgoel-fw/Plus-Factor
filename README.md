@@ -1,8 +1,6 @@
 # Plus Factor
 
-Market-definition and parallel-conduct analysis for U.S. antitrust litigators. Local, single-user, no account, no network by default.
-
-Plus Factor organizes the materials a plaintiff-side team actually has before discovery (invoices, price letters, contracts, interview notes, public statements) into competing market hypotheses and defendant-specific conduct episodes. Every inference carries its source passage, its gaps, and the evidence cutting the other way. It does **not** produce a "Twombly score", predict rulings, or decide legal sufficiency.
+Market-definition and parallel-conduct analysis for antitrust litigators. Plus Factor organizes the materials a plaintiff-side team actually has before discovery (invoices, price letters, contracts, interview notes, public statements) into competing market hypotheses and defendant-specific conduct episodes. Every inference carries its source passage, its gaps, and the evidence cutting the other way. It does **not** produce a "Twombly score", predict rulings, or decide legal sufficiency.
 
 ## Run
 
