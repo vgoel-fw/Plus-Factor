@@ -1,6 +1,6 @@
 # Plus Factor
 
-Market-definition and parallel-conduct analysis for antitrust litigators. Plus Factor organizes the materials a plaintiff-side team actually has before discovery (invoices, price letters, contracts, interview notes, public statements) into competing market hypotheses and defendant-specific conduct episodes. Every inference carries its source passage, its gaps, and the evidence cutting the other way. It does **not** produce a "Twombly score", predict rulings, or decide legal sufficiency.
+Market-definition and parallel-conduct analysis for antitrust litigators. Plus Factor organizes the materials a plaintiff-side team actually has before discovery (invoices, price letters, contracts, interview notes, public statements) into competing market hypotheses and defendant-specific conduct episodes. Every inference carries its source passage, its gaps, and the evidence opposing counsel may bring to court.
 
 ## Run
 
@@ -12,7 +12,7 @@ python3 scripts/evaluate_decisions.py                 # leave-one-out accuracy o
 export COURTLISTENER_TOKEN=...               # optional: higher CourtListener rate limits
 ```
 
-Python 3.11+ standard library only. Data lives in `plusfactor.db` (git-ignored). `PLUSFACTOR_DB` and `PLUSFACTOR_PORT` override defaults.
+Data lives in `plusfactor.db` (git-ignored). `PLUSFACTOR_DB` and `PLUSFACTOR_PORT` override defaults.
 
 ## How it is used
 
@@ -25,7 +25,7 @@ Open the page and either upload documents or **enter it yourself** (supplier, an
 
 There is no intake form and no matter management in the interface. The deeper engine (reviewed mutations, allegation verification, exports, authority grid) remains available through the API.
 
-## Not yet built (stated plainly)
+## Not yet buil
 
 - PDF/DOCX/MSG parsing and native load files: reported as unsupported; supply extracted text.
 - DOCX/XLSX export adapters.
@@ -51,4 +51,4 @@ Deployed, Plus Factor opens straight to the tool for anyone with the link; there
 2. Optional: add `COURTLISTENER_TOKEN` under the service's Environment settings.
 3. Share the `https://…onrender.com` address.
 
-Anyone with the link can use it, so treat the address accordingly. To restrict access later, set `PLUSFACTOR_USERS` (lines from `scripts/add_user.py`) and a sign-in page appears. Before uploading client material, confirm the host meets your firm's confidentiality requirements.
+Anyone with the link can use it - to restrict access later, set `PLUSFACTOR_USERS` (lines from `scripts/add_user.py`) and a sign-in page appears. Before uploading client material, confirm the host meets your firm's confidentiality requirements.
