@@ -1,0 +1,57 @@
+Vendor Name,Inv No,Line,Inv Date,Item,Item Desc,Family,Grade,Origin,Qty,UOM,Ext Amount,Rebate Alloc,Freight,Ship To,Curr
+ARDEN CHEMICAL,INV-0001,1,2023-10-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,32000.00,400.00,900.00,NJ,USD
+Bexley Ingredients LLC,INV-0002,1,2023-10-15,BX-CIT-F,Citric acid food grade,citric_acid,food,domestic,18000,KG,31680.00,0.00,700.00,NJ,USD
+Corvane,INV-0003,1,2023-10-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,24600.00,0.00,800.00,NJ,USD
+Corvane,INV-0004,1,2023-10-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Estwick Organics,INV-0005,1,2023-10-15,MAL-25,Malic acid FG,malic_acid,food,domestic,4000,LB,4400.00,0.00,250.00,NJ,USD
+ARDEN CHEMICAL,INV-0006,1,2023-11-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,32000.00,400.00,900.00,NJ,USD
+Bexley Ingredients LLC,INV-0007,1,2023-11-15,BX-CIT-F,Citric acid food grade,citric_acid,food,domestic,18000,KG,31680.00,0.00,700.00,NJ,USD
+Corvane,INV-0008,1,2023-11-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,24600.00,0.00,800.00,NJ,USD
+Corvane,INV-0009,1,2023-11-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+ARDEN CHEMICAL,INV-0010,1,2023-12-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,32000.00,400.00,900.00,NJ,USD
+Bexley Ingredients LLC,INV-0011,1,2023-12-15,BX-CIT-F,Citric acid food grade,citric_acid,food,domestic,18000,KG,31680.00,0.00,700.00,NJ,USD
+Corvane,INV-0012,1,2023-12-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,24600.00,0.00,800.00,NJ,USD
+Corvane,INV-0013,1,2023-12-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Estwick Organics,INV-0014,1,2023-12-15,MAL-25,Malic acid FG,malic_acid,food,domestic,4000,LB,4400.00,0.00,250.00,NJ,USD
+ARDEN CHEMICAL,INV-0015,1,2024-01-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,32000.00,400.00,900.00,NJ,USD
+Bexley Ingredients LLC,INV-0016,1,2024-01-15,BX-CIT-F,Citric acid food grade,citric_acid,food,domestic,18000,KG,31680.00,0.00,700.00,NJ,USD
+Corvane,INV-0017,1,2024-01-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,24600.00,0.00,800.00,NJ,USD
+Corvane,INV-0018,1,2024-01-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+ARDEN CHEMICAL,INV-0019,1,2024-02-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,32000.00,400.00,900.00,NJ,USD
+Bexley Ingredients LLC,INV-0020,1,2024-02-15,BX-CIT-F,Citric acid food grade,citric_acid,food,domestic,18000,KG,31680.00,0.00,700.00,NJ,USD
+Corvane,INV-0021,1,2024-02-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,24600.00,0.00,800.00,NJ,USD
+Corvane,INV-0022,1,2024-02-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Delmar Import Trading,INV-0023,1,2024-02-15,DM-CA-IMP,Citric acid FG imported,citric_acid,food,import,5000,LB,3700.00,0.00,1400.00,NJ,USD
+ARDEN CHEMICAL,INV-0024,1,2024-02-15,CA-IND-50,Citric acid industrial,citric_acid,industrial,domestic,5000,LB,3050.00,0.00,300.00,NJ,USD
+Estwick Organics,INV-0025,1,2024-02-15,MAL-25,Malic acid FG,malic_acid,food,domestic,4000,LB,4400.00,0.00,250.00,NJ,USD
+ARDEN CHEMICAL,INV-0026,1,2024-03-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,32000.00,400.00,900.00,NJ,USD
+Bexley Ingredients LLC,INV-0027,1,2024-03-15,BX-CIT-F,Citric acid food grade,citric_acid,food,domestic,18000,KG,31680.00,0.00,700.00,NJ,USD
+Corvane,INV-0028,1,2024-03-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,24600.00,0.00,800.00,NJ,USD
+Corvane,INV-0029,1,2024-03-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Delmar Import Trading,INV-0030,1,2024-03-15,DM-CA-IMP,Citric acid FG imported,citric_acid,food,import,5000,LB,3700.00,0.00,1400.00,NJ,USD
+ARDEN CHEMICAL,INV-0031,1,2024-04-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,34560.00,400.00,900.00,NJ,USD
+Corvane,INV-0032,1,2024-04-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,26445.00,0.00,800.00,NJ,USD
+Corvane,INV-0033,1,2024-04-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Estwick Organics,INV-0034,1,2024-04-15,MAL-25,Malic acid FG,malic_acid,food,domestic,4000,LB,4400.00,0.00,250.00,NJ,USD
+ARDEN CHEMICAL,INV-0035,1,2024-05-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,34560.00,,900.00,NJ,USD
+Corvane,INV-0036,1,2024-05-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,26445.00,0.00,800.00,NJ,USD
+Corvane,INV-0037,1,2024-05-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+ARDEN CHEMICAL,INV-0038,1,2024-06-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,34560.00,,900.00,NJ,USD
+Corvane,INV-0039,1,2024-06-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,26445.00,0.00,800.00,NJ,USD
+Corvane,INV-0040,1,2024-06-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Delmar Import Trading,INV-0041,1,2024-06-15,DM-CA-IMP,Citric acid FG imported,citric_acid,food,import,15000,LB,11100.00,0.00,1400.00,NJ,USD
+Estwick Organics,INV-0042,1,2024-06-15,MAL-25,Malic acid FG,malic_acid,food,domestic,4000,LB,4400.00,0.00,250.00,NJ,USD
+ARDEN CHEMICAL,INV-0043,1,2024-07-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,34560.00,,900.00,NJ,USD
+Corvane,INV-0044,1,2024-07-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,26445.00,0.00,800.00,NJ,USD
+Corvane,INV-0045,1,2024-07-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Delmar Import Trading,INV-0046,1,2024-07-15,DM-CA-IMP,Citric acid FG imported,citric_acid,food,import,15000,LB,11100.00,0.00,1400.00,NJ,USD
+ARDEN CHEMICAL,INV-0047,1,2024-08-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,34560.00,400.00,900.00,NJ,USD
+Corvane,INV-0048,1,2024-08-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,26445.00,0.00,800.00,NJ,USD
+Corvane,INV-0049,1,2024-08-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Delmar Import Trading,INV-0050,1,2024-08-15,DM-CA-IMP,Citric acid FG imported,citric_acid,food,import,15000,LB,11100.00,0.00,1400.00,NJ,USD
+ARDEN CHEMICAL,INV-0051,1,2024-08-15,CA-IND-50,Citric acid industrial,citric_acid,industrial,domestic,5000,LB,3050.00,0.00,300.00,NJ,USD
+Estwick Organics,INV-0052,1,2024-08-15,MAL-25,Malic acid FG,malic_acid,food,domestic,4000,LB,4400.00,0.00,250.00,NJ,USD
+ARDEN CHEMICAL,INV-0053,1,2024-09-15,CA-FG-50,Citric acid anhydrous FG,citric_acid,food,domestic,40000,LB,34560.00,400.00,900.00,NJ,USD
+Corvane,INV-0054,1,2024-09-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,30000,LB,26445.00,0.00,800.00,NJ,USD
+Corvane,INV-0055,1,2024-09-15,CV-100F,Citric acid FG granular,citric_acid,food,domestic,20000,LB,16400.00,0.00,950.00,TX,USD
+Delmar Import Trading,INV-0056,1,2024-09-15,DM-CA-IMP,Citric acid FG imported,citric_acid,food,import,15000,LB,11100.00,0.00,1400.00,NJ,USD

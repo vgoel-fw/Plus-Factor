@@ -1,0 +1,5 @@
+[Sample document - invented for demonstration]
+SUPPLY AGREEMENT between Bexley Ingredients LLC and Halcyon Beverage Co.
+Section 2.1 Term. This Agreement runs from April 1, 2022 and renews each April 1 unless terminated on 90 days notice.
+Section 4.2 Price Adjustment. On each April 1, the price shall be adjusted by the percentage change in the Corn Dextrose Index over the preceding twelve months, not to exceed 8%.
+Section 6.1 Minimum Volume. Buyer shall purchase not less than 400,000 kg per contract year.
