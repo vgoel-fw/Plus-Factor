@@ -1,0 +1,5 @@
+# Nothing here is required. Plus Factor's classifier is built in (app/jev) and runs with the
+# Python standard library alone.
+#
+# Optional: hosted TypeSafe Jev instead of the built-in engine (paid; set TYPESAFE_API_KEY).
+# typesafe-sdk @ git+https://github.com/typesafe-ai/typesafe-sdk-python@f36e68549ceca3191e5791e5f99ea1baa1a258b5
