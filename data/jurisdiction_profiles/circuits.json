@@ -1,0 +1,59 @@
+{
+ "3": {
+  "name": "Third Circuit",
+  "districts": [
+   "D. Del.",
+   "D.N.J.",
+   "E.D. Pa.",
+   "M.D. Pa.",
+   "W.D. Pa."
+  ],
+  "binding": [
+   "SCOTUS",
+   "3"
+  ]
+ },
+ "2": {
+  "name": "Second Circuit",
+  "districts": [
+   "S.D.N.Y.",
+   "E.D.N.Y."
+  ],
+  "binding": [
+   "SCOTUS",
+   "2"
+  ]
+ },
+ "4": {
+  "name": "Fourth Circuit",
+  "districts": [
+   "D. Md.",
+   "E.D. Va."
+  ],
+  "binding": [
+   "SCOTUS",
+   "4"
+  ]
+ },
+ "7": {
+  "name": "Seventh Circuit",
+  "districts": [
+   "N.D. Ill."
+  ],
+  "binding": [
+   "SCOTUS",
+   "7"
+  ]
+ },
+ "9": {
+  "name": "Ninth Circuit",
+  "districts": [
+   "N.D. Cal.",
+   "C.D. Cal."
+  ],
+  "binding": [
+   "SCOTUS",
+   "9"
+  ]
+ }
+}

@@ -1,0 +1,7 @@
+{
+ "note": "Per-task score thresholds validated on attorney-labeled examples (scripts/evaluate_decisions.py). null = not validated: model output for that task is routed to review, never to a proposed tag.",
+ "assertion_support": null,
+ "date_role": null,
+ "passage_kind": null,
+ "knowledge_basis": null
+}

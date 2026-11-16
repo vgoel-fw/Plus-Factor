@@ -1,0 +1,51 @@
+{
+ "restraints": [
+  "price_fixing",
+  "surcharge_coordination",
+  "output_restriction",
+  "customer_allocation",
+  "bid_rigging",
+  "information_exchange",
+  "boycott"
+ ],
+ "theories": [
+  "per_se",
+  "rule_of_reason",
+  "alternative",
+  "unresolved"
+ ],
+ "stages": [
+  "investigation",
+  "original_complaint",
+  "amended_complaint",
+  "motion_to_dismiss",
+  "discovery",
+  "summary_judgment"
+ ],
+ "purchaser_positions": [
+  "direct_purchaser",
+  "indirect_purchaser",
+  "distributor",
+  "end_user",
+  "unresolved"
+ ],
+ "deliverables": [
+  "investigation_memo",
+  "market_definition_section",
+  "agreement_allegations",
+  "opposition_support",
+  "economist_handoff"
+ ],
+ "issue_register": [
+  "standing",
+  "antitrust_injury",
+  "limitations",
+  "jurisdiction",
+  "class_issues"
+ ],
+ "reserved_extensions": [
+  "labor_restraints",
+  "algorithmic_pricing",
+  "two_sided_platforms"
+ ]
+}

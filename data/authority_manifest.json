@@ -1,0 +1,274 @@
+{
+ "schema_version": "1",
+ "notice": "Paraphrases are working notes, not quotations, and every entry is UNREVIEWED until an attorney checks it against the opinion and current treatment. No outcome percentages are computed from this corpus.",
+ "authorities": [
+  {
+   "id": "twombly",
+   "name": "Bell Atlantic Corp. v. Twombly",
+   "citation": "550 U.S. 544",
+   "court": "U.S. Supreme Court",
+   "circuit": "SCOTUS",
+   "year": 2007,
+   "posture": "motion_to_dismiss",
+   "restraint": "market_allocation_and_parallel_conduct",
+   "allegation_basis": "circumstantial",
+   "issues": [
+    {
+     "issue": "agreement_plausibility",
+     "defendant_scope": "all defendants",
+     "disposition": "complaint held insufficient; court of appeals reversed",
+     "favorable_to": "defendant",
+     "paraphrase": "Parallel conduct, without further factual context suggesting a preceding agreement, does not plausibly allege a Section 1 conspiracy. No probability requirement is imposed at the pleading stage.",
+     "pin": "556-57"
+    }
+   ],
+   "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep550/usrep550544/usrep550544.pdf",
+   "note": null,
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  },
+  {
+   "id": "alston",
+   "name": "NCAA v. Alston",
+   "citation": "594 U.S. 69",
+   "court": "U.S. Supreme Court",
+   "circuit": "SCOTUS",
+   "year": 2021,
+   "posture": "post_trial",
+   "restraint": "horizontal_restraint_compensation",
+   "allegation_basis": "direct",
+   "issues": [
+    {
+     "issue": "framework_selection",
+     "defendant_scope": "n/a",
+     "disposition": "rule-of-reason judgment affirmed",
+     "favorable_to": "plaintiff",
+     "paraphrase": "The degree of scrutiny (per se, abbreviated, or full rule of reason) depends on the restraint and its context; market analysis is not identical across Section 1 theories.",
+     "pin": null
+    }
+   ],
+   "url": "https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf",
+   "note": "Labor-side restraint: doctrine noted for framework selection only.",
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  },
+  {
+   "id": "sd3",
+   "name": "SD3, LLC v. Black & Decker (U.S.) Inc.",
+   "citation": "801 F.3d 412",
+   "court": "4th Cir.",
+   "circuit": "4",
+   "year": 2015,
+   "posture": "motion_to_dismiss",
+   "restraint": "group_boycott",
+   "allegation_basis": "circumstantial",
+   "issues": [
+    {
+     "issue": "agreement_plausibility",
+     "defendant_scope": "manufacturer defendants alleged to have participated in the boycott",
+     "disposition": "dismissal vacated",
+     "favorable_to": "plaintiff",
+     "paraphrase": "Allegations are assessed as a whole; the complaint alleged the who, what, when and where of the boycott agreement.",
+     "pin": null
+    },
+    {
+     "issue": "defendant_specific_participation",
+     "defendant_scope": "corporate affiliates and other defendants for whom no participation facts were alleged",
+     "disposition": "dismissal affirmed",
+     "favorable_to": "defendant",
+     "paraphrase": "Corporate affiliation alone does not plead a given entity's participation in the conspiracy.",
+     "pin": null
+    },
+    {
+     "issue": "agreement_plausibility",
+     "defendant_scope": "standard-setting conspiracy theories",
+     "disposition": "dismissal affirmed",
+     "favorable_to": "defendant",
+     "paraphrase": "Separate conspiracy theories are tested separately.",
+     "pin": null
+    }
+   ],
+   "url": "https://www.ca4.uscourts.gov/Opinions/Published/141746A.P.pdf",
+   "note": null,
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  },
+  {
+   "id": "text_messaging",
+   "name": "In re Text Messaging Antitrust Litigation",
+   "citation": "630 F.3d 622",
+   "court": "7th Cir.",
+   "circuit": "7",
+   "year": 2010,
+   "posture": "motion_to_dismiss",
+   "restraint": "price_fixing",
+   "allegation_basis": "circumstantial",
+   "issues": [
+    {
+     "issue": "agreement_plausibility",
+     "defendant_scope": "all defendants",
+     "disposition": "complaint held sufficient",
+     "favorable_to": "plaintiff",
+     "paraphrase": "Parallel pricing together with alleged industry structure, trade-association information exchange and price increases in the face of falling costs was held enough to plead agreement.",
+     "pin": null
+    }
+   ],
+   "url": null,
+   "note": "Summary judgment for defendants was later affirmed, 782 F.3d 867 (7th Cir. 2015): a pleading-stage ruling and a merits ruling are recorded separately.",
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  },
+  {
+   "id": "musical_instruments",
+   "name": "In re Musical Instruments & Equipment Antitrust Litigation",
+   "citation": "798 F.3d 1186",
+   "court": "9th Cir.",
+   "circuit": "9",
+   "year": 2015,
+   "posture": "motion_to_dismiss",
+   "restraint": "price_fixing_minimum_advertised_price",
+   "allegation_basis": "circumstantial",
+   "issues": [
+    {
+     "issue": "agreement_plausibility",
+     "defendant_scope": "manufacturer defendants",
+     "disposition": "dismissal affirmed",
+     "favorable_to": "defendant",
+     "paraphrase": "Alleged plus factors (common motive, similar policies adopted over time, trade-association attendance) were held consistent with independent self-interested conduct.",
+     "pin": null
+    }
+   ],
+   "url": null,
+   "note": null,
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  },
+  {
+   "id": "anderson_news",
+   "name": "Anderson News, L.L.C. v. American Media, Inc.",
+   "citation": "680 F.3d 162",
+   "court": "2d Cir.",
+   "circuit": "2",
+   "year": 2012,
+   "posture": "motion_to_dismiss",
+   "restraint": "group_boycott",
+   "allegation_basis": "mixed",
+   "issues": [
+    {
+     "issue": "agreement_plausibility",
+     "defendant_scope": "all defendants",
+     "disposition": "dismissal vacated",
+     "favorable_to": "plaintiff",
+     "paraphrase": "At the pleading stage the court does not choose between two plausible inferences from the facts alleged.",
+     "pin": null
+    }
+   ],
+   "url": null,
+   "note": null,
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  },
+  {
+   "id": "citigroup",
+   "name": "Mayor & City Council of Baltimore v. Citigroup, Inc.",
+   "citation": "709 F.3d 129",
+   "court": "2d Cir.",
+   "circuit": "2",
+   "year": 2013,
+   "posture": "motion_to_dismiss",
+   "restraint": "parallel_market_withdrawal",
+   "allegation_basis": "circumstantial",
+   "issues": [
+    {
+     "issue": "agreement_plausibility",
+     "defendant_scope": "all defendants",
+     "disposition": "dismissal affirmed",
+     "favorable_to": "defendant",
+     "paraphrase": "Parallel conduct that each defendant had an evident independent business reason to take did not plausibly suggest agreement.",
+     "pin": null
+    }
+   ],
+   "url": null,
+   "note": null,
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  },
+  {
+   "id": "brown_shoe",
+   "name": "Brown Shoe Co. v. United States",
+   "citation": "370 U.S. 294",
+   "court": "U.S. Supreme Court",
+   "circuit": "SCOTUS",
+   "year": 1962,
+   "posture": "post_trial",
+   "restraint": "merger",
+   "allegation_basis": "n/a",
+   "issues": [
+    {
+     "issue": "market_definition",
+     "defendant_scope": "n/a",
+     "disposition": "n/a",
+     "favorable_to": "n/a",
+     "paraphrase": "Product-market boundaries turn on reasonable interchangeability and cross-elasticity; submarkets may be identified by practical indicia.",
+     "pin": "325"
+    }
+   ],
+   "url": null,
+   "note": "Merger case: cited for market-definition method only.",
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  },
+  {
+   "id": "amex",
+   "name": "Ohio v. American Express Co.",
+   "citation": "585 U.S. 529",
+   "court": "U.S. Supreme Court",
+   "circuit": "SCOTUS",
+   "year": 2018,
+   "posture": "post_trial",
+   "restraint": "vertical_restraint",
+   "allegation_basis": "direct",
+   "issues": [
+    {
+     "issue": "market_definition",
+     "defendant_scope": "n/a",
+     "disposition": "judgment for defendant affirmed",
+     "favorable_to": "defendant",
+     "paraphrase": "Two-sided transaction platforms may require a single market spanning both sides.",
+     "pin": null
+    }
+   ],
+   "url": null,
+   "note": "Extension point only: two-sided platforms are out of scope for v1 schemas.",
+   "review": {
+    "status": "unreviewed",
+    "treatment_checked": null,
+    "reviewer": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "task": "assertion_support",
+ "schema_version": "1",
+ "required": [
+  "task",
+  "schema_version",
+  "matter_version",
+  "assertion_text",
+  "source_span_ids",
+  "context_complete",
+  "allowed_labels"
+ ]
+}

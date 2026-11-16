@@ -1,0 +1,5 @@
+Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007) - typed excerpts with pin cites.
+Status: UNVERIFIED against the official PDF. Run scripts/acquire_authorities.py then scripts/validate_sources.py.
+[556] Asking for plausible grounds to infer an agreement does not impose a probability requirement at the pleading stage; it simply calls for enough fact to raise a reasonable expectation that discovery will reveal evidence of illegal agreement.
+[556] an allegation of parallel conduct and a bare assertion of conspiracy will not suffice.
+[557] when allegations of parallel conduct are set out in order to make a § 1 claim, they must be placed in a context that raises a suggestion of a preceding agreement, not merely parallel conduct that could just as well be independent action.

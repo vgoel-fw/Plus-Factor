@@ -1,0 +1,23 @@
+{"t": "Effective April 1, 2024, Arden will increase prices on food-grade citric acid by 8%.", "a": "Arden announced an 8% increase on citric acid effective April 1, 2024.", "y": "supports"}
+{"t": "Corvane Acidulants Inc. will increase list prices for food-grade citric acid by 7.5%.", "a": "Corvane announced a 7.5% increase on food-grade citric acid.", "y": "supports"}
+{"t": "Executives from Arden and Bexley appeared as panelists on the outlook session.", "a": "Arden and Bexley executives attended the association meeting.", "y": "supports"}
+{"t": "Invoice dated 2024-04-15 shows Arden billed 0.864 per lb, up from 0.80 in March.", "a": "Arden implemented the increase in April.", "y": "supports"}
+{"t": "Shipped and invoiced at the new price of 0.881 on April 15.", "a": "Corvane charged the increased price after April 1.", "y": "supports"}
+{"t": "The supply agreement adjusts prices each April 1 by reference to the index.", "a": "Bexley's contract adjusts its price every April 1.", "y": "supports"}
+{"t": "Corvane has not discussed this adjustment with any competitor.", "a": "Corvane discussed the adjustment with a competitor.", "y": "contradicts"}
+{"t": "Arden did not raise prices for contract customers in 2024.", "a": "Arden raised prices for contract customers in 2024.", "y": "contradicts"}
+{"t": "Customers under fixed-price agreements are exempt from this increase.", "a": "The increase applied to all customers without exception.", "y": "contradicts"}
+{"t": "Bexley declined to follow the surcharge and kept prices flat.", "a": "Bexley followed the surcharge.", "y": "contradicts"}
+{"t": "The witness never spoke with anyone from Corvane.", "a": "The witness spoke with a Corvane employee.", "y": "contradicts"}
+{"t": "Effective April 1, 2024, prices for food-grade citric acid will increase by 8%.", "a": "Bexley implemented the increase on April 1, 2024.", "y": "does_not_address"}
+{"t": "Effective April 1, prices will rise 7.5%.", "a": "Corvane collected the higher price from customers.", "y": "does_not_address"}
+{"t": "In an unrelated lawsuit concerning lysine, plaintiffs alleged that producers agreed to fix prices.", "a": "Producers agreed to fix prices.", "y": "does_not_address"}
+{"t": "The meeting was held in Phoenix on January 23.", "a": "Malic acid is a substitute for citric acid.", "y": "does_not_address"}
+{"t": "Malic acid changes the flavor profile.", "a": "Arden announced an increase in February.", "y": "does_not_address"}
+{"t": "Energy costs rose sharply during 2023.", "a": "Bexley communicated with Arden about prices.", "y": "does_not_address"}
+{"t": "Arden raised prices 8% in April, but kept prices flat for two customers under contract.", "a": "Arden raised prices for all customers in April.", "y": "mixed"}
+{"t": "Corvane increased list prices, however its Texas shipments were not repriced.", "a": "Corvane increased its prices in April.", "y": "mixed"}
+{"t": "Bexley announced the increase but granted exceptions to its largest accounts.", "a": "Bexley raised prices across the board.", "y": "mixed"}
+{"t": "See above.", "a": "Arden announced an increase.", "y": "insufficient_context"}
+{"t": "Id.", "a": "Corvane implemented the increase.", "y": "insufficient_context"}
+{"t": "[redacted]", "a": "Bexley spoke with a competitor.", "y": "insufficient_context"}
