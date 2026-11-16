@@ -1,0 +1,7 @@
+*.db
+*.db-journal
+__pycache__/
+exports_out/
+.env
+data/authorities/raw/
+model_traces/
